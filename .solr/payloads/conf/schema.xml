@@ -1184,5 +1184,6 @@
          <str name="paramkey">param value</str>
        </similarity>
       -->
+    <similarity class="pl.itblues.PayloadSimilarityFactory"/>
 
 </schema>
