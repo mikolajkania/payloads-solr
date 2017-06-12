@@ -134,7 +134,7 @@
          between the existing compression modes in the default codec: "BEST_SPEED" (default)
          or "BEST_COMPRESSION".
     -->
-
+    <schemaFactory class="ClassicIndexSchemaFactory"/>
 
     <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
          Index Config - These settings control low-level behavior of indexing
