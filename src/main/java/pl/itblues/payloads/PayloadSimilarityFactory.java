@@ -1,4 +1,4 @@
-package pl.itblues;
+package pl.itblues.payloads;
 
 import org.apache.lucene.analysis.payloads.PayloadHelper;
 import org.apache.lucene.search.similarities.ClassicSimilarity;
